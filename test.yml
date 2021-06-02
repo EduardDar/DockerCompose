@@ -1,0 +1,17 @@
+---
+# Employee records
+- Ivan:
+    name:Ivan
+    Job: Developer
+    Skills:
+         - perl
+         - pascal
+         - python
+- Vasya:
+    name:Vasya
+    Job:Developer
+    Skills:
+         - perl
+         - pascal
+         - python
+---
